@@ -1,3 +1,7 @@
 This is a git testing document.
 Now this has a new line.
 Am I going to overwrite?
+
+-----------
+This is Egor change
+----------
